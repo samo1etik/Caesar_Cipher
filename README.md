@@ -1,6 +1,6 @@
 # Caesar_Cipher
 
-##Projekti idee:
+## Projekti idee:
 Programm võimaldab kasutajal salajasi sõnumeid kirjutada, krüpteerida, dekrüpteerida ning proovida tundmatu võtmega sõnumeid lahti murda.
 ## Tööjaotus:
 1. inimene - Šifreerimine ja dešifreerimine
